@@ -5,4 +5,4 @@ Corpus de commentaires pour le projet weka (traitement du degré de positivité 
 https://docs.google.com/spreadsheets/d/1ZWN-tQBmZoh4YiV0lR4TC5ZSnNOdY1RLMk0bRS3ZoiA/edit#gid=0
 
 ## Lien vers le rapport :
-https://docs.google.com/document/d/1SnBoW1JiNi27LDIt4qT0LbJNUuSh4e3xFaXshDU8q0E/edit
+https://drive.google.com/file/d/14eFmQvt7bGsNXAeSnEjR-oIcTLURIk8Z/view?usp=sharing
